@@ -1,0 +1,36 @@
+"AppState"
+{
+	"appid"		"3299570"
+	"Universe"		"1"
+	"LauncherPath"		"D:\\study\\steam\\steam.exe"
+	"name"		"No Mercy"
+	"StateFlags"		"4"
+	"installdir"		"No Mercy"
+	"LastUpdated"		"0"
+	"LastPlayed"		"0"
+	"SizeOnDisk"		"0"
+	"StagingSize"		"0"
+	"buildid"		"18040181"
+	"LastOwner"		"76561199681568600"
+	"DownloadType"		"1"
+	"UpdateResult"		"0"
+	"BytesToDownload"		"0"
+	"BytesDownloaded"		"0"
+	"BytesToStage"		"0"
+	"BytesStaged"		"0"
+	"TargetBuildID"		"18040181"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+	}
+	"UserConfig"
+	{
+		"language"		"english"
+	}
+	"MountedConfig"
+	{
+		"language"		"english"
+	}
+}
